@@ -2,10 +2,10 @@ var logo_app = "img/logo.png";
 	var title_app = "注册码计算器";
 	var shouji_app = "img/app_sp.png";
 	var banb_app = "版本：1.1.7丨大小：9.12M";
-	var fabu_app = "发布时间：2022年1月21日 丨 Xiaoyu technical team";
+	var fabu_app = "发布时间：2022年1月30日丨 Xiaoyu technical team";
 	var dibu_app = "Copyright Xiaoyu technical team © All Rights Reserved";
 	var ewm_app = "img/ewm.jpg";
-	var xiaz_app = "https://hyl-bilibili.lanzouq.com/iDu1Qz29vgd";
+	var xiaz_app = "https://hyl-bilibili.lanzouq.com/i919vzeur1c";
 	var text_app = "注册码计算器重置版是基于Apktool+助手的界面注册码计算器重置而来，支持安卓12L，利用新特性开发，比原版更快更稳定！";
 
 	var win_width = $(window).width();
