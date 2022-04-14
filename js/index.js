@@ -1,7 +1,7 @@
 var logo_app = "img/logo.png";
 	var title_app = "注册码计算器";
 	var shouji_app = "img/app_sp.png";
-	var banb_app = "版本：1.1.9丨大小：9.41M";
+	var banb_app = "版本：1.2.5丨大小：4.56M";
 	var fabu_app = "发布时间：2022年2月13日丨 Xiaoyu technical team";
 	var dibu_app = "Copyright Xiaoyu technical team © All Rights Reserved";
 	var ewm_app = "img/ewm.jpg";
