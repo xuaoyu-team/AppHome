@@ -1,8 +1,8 @@
 var logo_app = "img/logo.png";
 var title_app = "注册码计算器";
 var shouji_app = "https://img.gejiba.com/images/6ea7f61b82b8c17310703ed96501cf7f.png";
-var banb_app = "版本：1.4.7 丨大小：7.35M|";
-var fabu_app = "发布时间：2023年02月02日 丨 Xiaoyu technical team";
+var banb_app = "版本：1.4.8 丨大小：7.35M|";
+var fabu_app = "发布时间：2023年02月11日 丨 Xiaoyu technical team";
 var dibu_app = "Copyright Xiaoyu technical team © All Rights Reserved";
 var ewm_app = "img/ewm.jpg";
 var xiaz_app = "https://hyl-bilibili.lanzouf.com/iFans0n8871i";
